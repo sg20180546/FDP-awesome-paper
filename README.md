@@ -1,5 +1,7 @@
 # Paper related to (FDP,Multistream) SSD
 
+Paper related to Flexlible Data Placement and Multistream SSD
+
 [ZNS-awesome-paper](https://github.com/sg20180546/ZNS-awesome-paper)
 
 ## 2014
