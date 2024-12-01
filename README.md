@@ -6,7 +6,7 @@ Paper related to Flexlible Data Placement and Multistream SSD
 
 ## 2014
 
-1. The Multi-streamed Solid-State Drive HotStorage '14
+1. [The Multi-streamed Solid-State Drive](https://www.usenix.org/system/files/conference/hotstorage14/hotstorage14-paper-kang.pdf), HotStorage '14, JU Kang, J Hyun, H Maeng, S Cho
 
 ## 2015
 
@@ -67,7 +67,7 @@ Paper related to Flexlible Data Placement and Multistream SSD
 
 1. Auto-Tuning Parameters for Emerging Multi-Stream Flash-Based Storage Drives Through New I/O Pattern Generations, Transaction On Computer '22  
 
-2. I/O Interface Independence with xNVMe, Systor '22
+2. [I/O Interface Independence with xNVMe](https://dl.acm.org/doi/pdf/10.1145/3534056.3534936), Systor '22, Simon A. F. Lund, Philippe Bonnet, Klaus B. A. Jensen, Javier Gonzalez
 
 
 ## 2023
@@ -78,7 +78,9 @@ Paper related to Flexlible Data Placement and Multistream SSD
 
 ## 2024
 
-1. I/O Passthru: Upstreaming a flexible and efficient I/O Path in Linux, FAST '24
+1. [I/O Passthru: Upstreaming a flexible and efficient I/O Path in Linux](https://www.usenix.org/system/files/fast24-joshi.pdf), FAST '24, Kanchan Joshi, Anuj Gupta, Javier González, Ankit Kumar, Krishna Kanth Reddy, Arun George, and Simon Lund, Samsung Semiconductor; Jens Axboe, Meta Platforms Inc.
+
+
 
 2. ENHANCING FLASH STORAGE PERFORMANCE AND LIFETIME WITH HOST-GUIDED DATA PLACEMENT, Phd Thesis
 
