@@ -76,6 +76,8 @@ Paper related to Flexlible Data Placement and Multistream SSD
 
 2. FlashAlloc: Dedicating Flash Blocks By Objects, VLDB '23  
 
+3. [RLAlloc: A Deep Reinforcement Learning-Assisted Resource Allocation Framework for Enhanced Both I/O Throughput and QoS Performance of Multi-Streamed SSDs](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247988), DAC '23, Mengquan Li, Chao Wu, Congming Gao, Cheng Ji, Kenli Li1
+
 ## 2024
 
 1. [I/O Passthru: Upstreaming a flexible and efficient I/O Path in Linux](https://www.usenix.org/system/files/fast24-joshi.pdf), FAST '24, Kanchan Joshi, Anuj Gupta, Javier González, Ankit Kumar, Krishna Kanth Reddy, Arun George, and Simon Lund, Samsung Semiconductor; Jens Axboe, Meta Platforms Inc.
