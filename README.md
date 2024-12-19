@@ -82,8 +82,8 @@ Paper related to Flexlible Data Placement and Multistream SSD
 
 1. [I/O Passthru: Upstreaming a flexible and efficient I/O Path in Linux](https://www.usenix.org/system/files/fast24-joshi.pdf), FAST '24, Kanchan Joshi, Anuj Gupta, Javier González, Ankit Kumar, Krishna Kanth Reddy, Arun George, and Simon Lund, Samsung Semiconductor; Jens Axboe, Meta Platforms Inc.
 
-
-
 2. ENHANCING FLASH STORAGE PERFORMANCE AND LIFETIME WITH HOST-GUIDED DATA PLACEMENT, Phd Thesis
 
 3. Exploring I/O Management Performance in ZNS with ConfZNS++, Systor '24
+
+4. [FDPFS: Leveraging File System Abstraction for FDP SSD Data Placement](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10779575&casa_token=N8DNe4EVoXMAAAAA:qZR-dY53X0lG5v-3UzVmuvRepU4MLr82iul4kjmh9ViUSGF6UpDLNS0jDlWHcJOA1ONN7srMwA&tag=1), IEEE Letters '24 ,Ping-Xiang Chen, Dongjoo Seo and Nikil Dutt
