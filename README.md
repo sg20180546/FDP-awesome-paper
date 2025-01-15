@@ -87,3 +87,7 @@ Paper related to Flexlible Data Placement and Multistream SSD
 3. Exploring I/O Management Performance in ZNS with ConfZNS++, Systor '24
 
 4. [FDPFS: Leveraging File System Abstraction for FDP SSD Data Placement](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10779575&casa_token=N8DNe4EVoXMAAAAA:qZR-dY53X0lG5v-3UzVmuvRepU4MLr82iul4kjmh9ViUSGF6UpDLNS0jDlWHcJOA1ONN7srMwA&tag=1), IEEE Letters '24 ,Ping-Xiang Chen, Dongjoo Seo and Nikil Dutt
+
+## 2025
+
+1. [Storage Abstractions for SSDs: The Past, Present, and Future](https://dl.acm.org/doi/pdf/10.1145/3708992), ACM TOS '25, Xiangqun Zhang, Janki Bhimani, Shuyi Pei, Eunji Lee, Sungjin Lee, Yoon Jae Seong, Eui Jin Kim, Changho Choi, Eyee Hyun Nam, Jongmoo Choi, Bryan S. Kim
