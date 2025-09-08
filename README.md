@@ -91,3 +91,6 @@ Paper related to Flexlible Data Placement and Multistream SSD
 ## 2025
 
 1. [Storage Abstractions for SSDs: The Past, Present, and Future](https://dl.acm.org/doi/pdf/10.1145/3708992), ACM TOS '25, Xiangqun Zhang, Janki Bhimani, Shuyi Pei, Eunji Lee, Sungjin Lee, Yoon Jae Seong, Eui Jin Kim, Changho Choi, Eyee Hyun Nam, Jongmoo Choi, Bryan S. Kim
+
+2. [SlimIO: Lightweight I/O Path Design for Write Isolation in FDP-backed In-Memory Databases](), PDSW '25, Sangyun Lee, Sungjin Byeon, Soon Hwang, Jaewan Park, Jooyoung Hwang, Junyeong Han, Javier González, Awais Khan and Youngjae Kim
+
