@@ -94,3 +94,7 @@ Paper related to Flexlible Data Placement and Multistream SSD
 
 2. [SlimIO: Lightweight I/O Path Design for Write Isolation in FDP-backed In-Memory Databases](https://www.pdsw.org/index.shtml), PDSW '25, Sangyun Lee, Sungjin Byeon, Soon Hwang, Jaewan Park, Jooyoung Hwang, Junyeong Han, Javier González, Awais Khan and Youngjae Kim
 
+3. [Towards Efficient Flash Caches with Emerging NVMe Flexible Data Placement SSDs](https://dl.acm.org/doi/abs/10.1145/3689031.3696091), EuroSys '25, Michael Allison, Arun George, Javier Gonzalez, Dan Helmick, Vikash Kumar, Roshan R. Nair, Vivek Shah
+
+4. [Optimizing Stream Separation Using Event Logs in FDP Storage Device](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10693666), NVMSA '25, Hyunbin Kang, Dongkun Shin
+
