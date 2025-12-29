@@ -98,3 +98,7 @@ Paper related to Flexlible Data Placement and Multistream SSD
 
 4. [Optimizing Stream Separation Using Event Logs in FDP Storage Device](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10693666), NVMSA '25, Hyunbin Kang, Dongkun Shin
 
+
+## 2026
+
+1. [Characterizing and Emulating FDP SSDs with Warp](), FAST '26
